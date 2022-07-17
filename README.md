@@ -13,11 +13,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/thenerepe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thenerepe" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nuri-patoğlu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nuri-patoğlu" height="30" width="40" /></a>
-<a href="https://instagram.com/thedevnerepe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thedevnerepe" height="30" width="40" /></a>
-<a href="https://www.behance.net/nerepe design" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="nerepe design" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ne-re-pe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ne-re-pe" height="30" width="40" /></a>
+<a href="https://twitter.com/thenerepe" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thenerepe" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nuri-patoğlu" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nuri-patoğlu" height="30" width="40" /></a>
+<a href="https://instagram.com/thedevnerepe" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thedevnerepe" height="30" width="40" /></a>
+<a href="https://www.behance.net/nerepe design" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="nerepe design" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/ne-re-pe" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ne-re-pe" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
