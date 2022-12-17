@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nuri Patoglu</h1>
 <h3 align="center">I'm Freelance Front End Developer</h3>
 
-- 🔭 I’m currently working on **BBL Esports Website**
-
 - 🌱 I’m currently learning **HTML CSS & JavaScript**
 
 - 💬 Ask me about **Html and Css**
