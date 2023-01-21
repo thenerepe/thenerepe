@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nuri Patoglu</h1>
-<h3 align="center">I'm Freelance Front End Developer</h3>
+<h3 align="center">I'm Freelance Developer</h3>
 
-- 🌱 I’m currently learning **HTML CSS & JavaScript**
+- 🌱 I’m currently learning **Front-End & Java OOP**
 
 - 💬 Ask me about **Html and Css**
 
