@@ -18,13 +18,13 @@
 <a href="https://www.youtube.com/c/ne-re-pe" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ne-re-pe" height="30" width="40" /></a>
 </p>
 
-<p align="center">
-  <code><img title="GitHub" height="25" src="images/github.svg"></code>
-  <code><img title="Git" height="25" src="images/git-original.svg"></code>
-  <code><img title="Java" height="25" src="images/java-original.svg"></code>
-  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="images/css.svg"></code>
-  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
+<p align="left">
+  <code><img title="GitHub" height="30" src="images/github.svg"></code>
+  <code><img title="Git" height="30" src="images/git-original.svg"></code>
+  <code><img title="Java" height="30" src="images/java-original.svg"></code>
+  <code><img title="HTML5" height="30" src="images/html5.svg"></code>
+  <code><img title="CSS" height="30" src="images/css.svg"></code>
+  <code><img title="Javascript" height="30" src="images/javascript.svg"></code>
+  <code><img title="Visual Studio Code" height="30" src="images/vscode.png"></code>
 </p>
 
