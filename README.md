@@ -4,8 +4,9 @@
 ---
 
 # 💫 About Me:
-- 🌱 I’m currently learning **Front-End**
-- 💬 Ask me about **Html, Css & TailwindCSS**
+- 🌱 I’m currently learning **Java, JS, Python, PHP**
+- 💬 Ask me about **Front End: HTML,CSS,JS**
+- 💬 Ask me about **Back End: Java, Javascript**
 - 📫 How to reach me **nrpatogluiletisim@gmail.com**
 
 
